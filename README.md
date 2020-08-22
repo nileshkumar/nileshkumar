@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am a Software Developer with passion of programming.
+My tech skills include - 
+- [x] Ruby
+- [x] Rails
+- [x] JavaScript
+- [x] React
+- [x] HTML5/CSS3
+- [x] MySQL/PostgreSQL/MongoDB
+
 <!--
 **nileshkumar/nileshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
