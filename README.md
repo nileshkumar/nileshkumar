@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Software Developer with passion of programming.
+I am a Software Developer with passion of programming. <br/>
 My tech skills include - 
 - [x] Ruby
 - [x] Rails
