@@ -1,4 +1,4 @@
-### Hi there 👋 :smiley:
+### Hi there 👋 
 
 I am a Software Developer with passion of programming. :computer:  <br/>
 :information_source: My tech skills include - 
@@ -8,6 +8,8 @@ I am a Software Developer with passion of programming. :computer:  <br/>
 - [x] React
 - [x] HTML5/CSS3
 - [x] MySQL/PostgreSQL/MongoDB
+
+:smiley:
 
 <!--
 **nileshkumar/nileshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
