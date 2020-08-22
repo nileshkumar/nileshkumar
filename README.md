@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 :smiley:
 
-I am a Software Developer with passion of programming. <br/>
-My tech skills include - 
+I am a Software Developer with passion of programming. :computer:  <br/>
+:information_source: My tech skills include - 
 - [x] Ruby
 - [x] Rails
 - [x] JavaScript
